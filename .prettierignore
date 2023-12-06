@@ -5,4 +5,4 @@ out
 dist
 bullmq-pro
 .react-email
-vendor
+vendor/.gitignore

@@ -16,4 +16,4 @@ packages/chat-bubble
 .env.local
 .env.prod.local
 .dev
-docker
+docker/.prettierignore
